@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-code-demo/static/css/main.cb3d6219.chunk.css",
+    "main.js": "/simple-code-demo/static/js/main.c8a3242a.chunk.js",
+    "main.js.map": "/simple-code-demo/static/js/main.c8a3242a.chunk.js.map",
+    "runtime-main.js": "/simple-code-demo/static/js/runtime-main.90b54325.js",
+    "runtime-main.js.map": "/simple-code-demo/static/js/runtime-main.90b54325.js.map",
+    "static/js/2.9beddbed.chunk.js": "/simple-code-demo/static/js/2.9beddbed.chunk.js",
+    "static/js/2.9beddbed.chunk.js.map": "/simple-code-demo/static/js/2.9beddbed.chunk.js.map",
+    "index.html": "/simple-code-demo/index.html",
+    "precache-manifest.191f429a72f0a64a7d57f2492ecff26b.js": "/simple-code-demo/precache-manifest.191f429a72f0a64a7d57f2492ecff26b.js",
+    "service-worker.js": "/simple-code-demo/service-worker.js",
+    "static/css/main.cb3d6219.chunk.css.map": "/simple-code-demo/static/css/main.cb3d6219.chunk.css.map",
+    "static/js/2.9beddbed.chunk.js.LICENSE.txt": "/simple-code-demo/static/js/2.9beddbed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b54325.js",
+    "static/js/2.9beddbed.chunk.js",
+    "static/css/main.cb3d6219.chunk.css",
+    "static/js/main.c8a3242a.chunk.js"
+  ]
+}
