@@ -1,3 +1,9 @@
+# Ghibli API UI
+
+Super simple UI created to work with [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
